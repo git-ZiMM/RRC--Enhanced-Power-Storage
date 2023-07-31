@@ -30,7 +30,7 @@ Large Grid: Industrial Container - Vanilla Storage - 421,875L | ENHANCED - 3,723
 Batteries
 -------------------------
 
-Small Grid:Small Battery - Vanilla - 50KW - 30% Charged | ENHANCED - 50MW - 75% pre-charged
+Small Grid: Small Battery - Vanilla - 50KW - 30% Charged | ENHANCED - 50MW - 75% pre-charged
 
 Small Grid: Large Battery - Vanilla - 1MW - 30% Charged | ENHANCED - 1GWh - 75% pre-charged
 
