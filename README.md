@@ -47,13 +47,13 @@ Small Grid: Solarpanel - Vanilla - 40KW | ENHANCED - 1MW
 
 Large Grid: Solarpanel - Vanilla - 160KW | ENHANCED - 2MW
 
-Wind Turbine - Vanilla - 400KW - Optimal Windspeed - 80 | ENHANCED - 5MW - Optimal Windspeed - 60
+Wind Turbine: Vanilla - 400KW - Optimal Windspeed - 80 | ENHANCED - 5MW - Optimal Windspeed - 60
 
 
 Max Speed
 ------------------------------------------
-Small Ship - Vanilla - 100m/s | ENHANCED 200 m/s
-Large Ship - Vanilla - 100m/s | ENHANCED 200 m/s
+Small Ship: Vanilla - 100m/s | ENHANCED 200 m/s
+Large Ship: Vanilla - 100m/s | ENHANCED 200 m/s
 
 **** To help with added weight to Containers, Thank You Meridius_IX / Lucas!!! PLEASE CREDIT AUTHOR OF SCRIPT [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=1660726401)
 
