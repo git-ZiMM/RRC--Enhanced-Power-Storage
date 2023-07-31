@@ -7,18 +7,9 @@ A. _If you installed mod on a NEW World. Close Space Engineers > Unsubscribe to 
 If you installed on a pre-existing world, you must create Container/Battery/Solarpanel or Wind Turbine and replace the old ones._  
 
 
-## Download/Subscribe Mod
-
-### Steam: [PC](https://steamcommunity.com/sharedfiles/filedetails/?id=3006787371)
-
-### Mod.IO: [Consoles](https://mod.io/g/spaceengineers/m/rrc-enhanced-vanilla-s-p)
-
-
 *** If you have any issues and I haven't responded in comment section, I won't lie I'm horrible about checking comments, and may be easier to DM me on Discord usr_zimm or check [FAQ](https://github.com/git-ZiMM/RRC--Enhanced-Power-Storage#readme)
 
 **** With added weight to Containers, I added an Adjustable Thrust Multiplier Script to help with Ship weight if storage is full. Thank You Meridius_IX / Lucas!!! PLEASE CREDIT THE ORIGINAL AUTHOR FOR [THIS](https://steamcommunity.com/sharedfiles/filedetails/?id=1660726401)
-
-
 
 
 *** ALL PARTS COST 1 PCU ***
@@ -66,3 +57,13 @@ Max Speed
 ------------------------------------------
 Small Ship - Vanilla - 100m/s | ENHANCED 200 m/s
 Large Ship - Vanilla - 100m/s | ENHANCED 200 m/s
+
+
+
+## Download/Subscribe Mod
+
+### Steam: [PC](https://steamcommunity.com/sharedfiles/filedetails/?id=3006787371)
+
+### Mod.IO: [Consoles](https://mod.io/g/spaceengineers/m/rrc-enhanced-vanilla-s-p)
+
+
