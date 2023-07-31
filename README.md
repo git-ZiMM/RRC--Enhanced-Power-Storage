@@ -1,7 +1,6 @@
 # RRC--Enhanced-Power-Storage
-Space Engineers Mod Enhanced some Vanilla items for my Personal Server. These will replace the Vanilla items they were upgraded from.
 
-FAQ#
+#FAQ#
 
 Q. I installed mod on my server, but all items are still the Vanilla Version?
 
