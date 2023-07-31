@@ -1,14 +1,4 @@
 
-# FAQ#
-
-Q. **I installed mod on my server, but all items are still the Vanilla Version?**
-
-A. _If you installed mod on a NEW World. Close Space Engineers > Unsubscribe to mod > Resubscribe and let SE update mod > Open SE. 
-If you installed on a pre-existing world, you must create Container/Battery/Solarpanel or Wind Turbine and replace the old ones._  
-
-
-
-
 *** ALL PARTS COST 1 PCU ***
 
 
@@ -56,6 +46,15 @@ Small Ship: Vanilla - 100m/s | ENHANCED 200 m/s
 Large Ship: Vanilla - 100m/s | ENHANCED 200 m/s
 
 **** To help with added weight to Containers, Thank You Meridius_IX / Lucas!!! PLEASE CREDIT AUTHOR OF SCRIPT [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=1660726401)
+
+
+
+# FAQ#
+
+Q. **I installed mod on my server, but all items are still the Vanilla Version?**
+
+A. _If you installed mod on a NEW World. Close Space Engineers > Unsubscribe to mod > Resubscribe and let SE update mod > Open SE. 
+If you installed on a pre-existing world, you must create Container/Battery/Solarpanel or Wind Turbine and replace the old ones._  
 
 ## Download/Subscribe Mod
 
