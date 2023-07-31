@@ -8,7 +8,7 @@ A. _If you installed mod on a NEW World. Close Space Engineers > Unsubscribe to 
 If you installed on a pre-existing world, you must create Container/Battery/Solarpanel or Wind Turbine and replace the old ones._  
 
 
-## Download Mod
+## Download/Subscribe Mod
 
 ### Steam: [PC](https://steamcommunity.com/sharedfiles/filedetails/?id=3006787371)
 
