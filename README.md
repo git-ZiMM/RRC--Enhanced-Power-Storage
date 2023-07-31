@@ -55,7 +55,7 @@ Max Speed
 Small Ship - Vanilla - 100m/s | ENHANCED 200 m/s
 Large Ship - Vanilla - 100m/s | ENHANCED 200 m/s
 
-**** With added weight to Containers, I added an Adjustable Thrust Multiplier Script to help with Ship weight if storage is full. Thank You Meridius_IX / Lucas!!! PLEASE CREDIT THE ORIGINAL AUTHOR FOR [THIS](https://steamcommunity.com/sharedfiles/filedetails/?id=1660726401)
+**** To help with added weight to Containers, Thank You Meridius_IX / Lucas!!! PLEASE CREDIT AUTHOR OF SCRIPT [HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=1660726401)
 
 ## Download/Subscribe Mod
 
