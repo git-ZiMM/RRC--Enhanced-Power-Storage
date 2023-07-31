@@ -10,6 +10,6 @@ If you installed on a pre-existing world, you must create Container/Battery/Sola
 
 ### Download Mod on Steam or Mod.IO
 
-### [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3006787371)
+### [Steam][PC](https://steamcommunity.com/sharedfiles/filedetails/?id=3006787371)
 
-### [Mod.IO](https://mod.io/g/spaceengineers/m/rrc-enhanced-vanilla-s-p)
+### [Mod.IO][Consoles](https://mod.io/g/spaceengineers/m/rrc-enhanced-vanilla-s-p)
