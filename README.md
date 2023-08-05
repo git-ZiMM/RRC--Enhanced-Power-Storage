@@ -39,6 +39,21 @@ Large Grid: Solarpanel - Vanilla - 160KW | ENHANCED - 2MW
 
 Wind Turbine: Vanilla - 400KW - Optimal Windspeed - 80 | ENHANCED - 5MW - Optimal Windspeed - 60
 
+Oxygen/Hydrogen Tanks
+----------------------------------
+
+OxygenTankSmall - Vanilla - 50,000L ---- ENHANCED - 500,000L
+
+OxygenTankLarge - Vanilla - 100,000L ---- ENHANCED - 1000,000L
+
+LargeHydrogenTank - Vanilla - 15,000,000L ---- ENHANCED - 150,000,000L
+
+LargeHydrogenTankSmall - Vanilla - 1,000,000L ----ENHANCED - 10,000,000L
+
+SmallHydrogenTank - Vanilla - 500,000L ---- ENHANCED - 5,000,000L
+
+SmallHydrogenTankSmall - Vanilla - 15,000L ---- ENHANCED - 150,000L
+
 
 Max Speed
 ------------------------------------------
